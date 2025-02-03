@@ -1,2 +1,2 @@
 # RelentlessBalloonSyndrome
-Android clicker game made in Unity
+Mobile clicker game made in Unity
